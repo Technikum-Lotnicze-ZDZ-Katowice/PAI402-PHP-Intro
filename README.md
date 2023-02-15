@@ -1,5 +1,5 @@
 # 423-JS-PHP-PYTHON-C++
-
+---
 ### 1. Overview
 
 JS,PHP,PY script languages\
@@ -15,7 +15,7 @@ document.write('Hello JS');
 
 document.querySelector('#el').innerHTML = 'Hello injected';
 ```
----
+
 PHP
 ```php
 <!DOCTYPE html>
@@ -35,12 +35,12 @@ PHP
 	echo 'Hello PHP';
 	print('Hello PHP');
 ```
----
+
 PY 
 ```python
 print("Hello, World!")
 ```
----
+
 C++
 ```cpp
 #include <iostream>
@@ -55,7 +55,7 @@ int main()
 }
 ```
 
-
+---
 ### 2. Variables
 
 JS
@@ -97,7 +97,7 @@ echo $y;
 <?= "Hello world"?>
 
 ```
----
+
 PY
 
 ```python
@@ -108,9 +108,9 @@ if a > b
 	print("a jest większe od b")
 ```
 
----
-C++
 
+C++
+---
 ### 3. Conditions
 
 ### ONLINE EDITORS
