@@ -67,7 +67,7 @@ const b = 2;
 let c = a < b;
 
 
----
+...
 
 let imie = 'Jan';
 
