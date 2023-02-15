@@ -59,8 +59,38 @@ int main()
 2. Variables
 
 JS
+
+```js
+let a = 5;
+const b = 2;
+
+let c = a < b;
+
+
+---
+
+let imie = 'Jan';
+
+document.write('Hello ' + imie);
+```
 ---
 PHP
+```php
+$name = 'Jan';
+
+echo "Hello $Jan";
+
+echo 'Hello ' .  $Jan;
+...
+
+
+$x = 1;
+$y = $x;
+
+$x = 3;
+
+echo $y;
+```
 ---
 PY
 ---
