@@ -85,7 +85,7 @@ echo 'Hello ' .  $Jan;
 
 
 $x = 1;
-$y = $x;
+$y = $x; // $y = &$x;
 
 $x = 3;
 
