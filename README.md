@@ -15,6 +15,7 @@ document.write('Hello JS');
 
 document.querySelector('#el').innerHTML = 'Hello injected';
 ```
+---
 PHP
 ```php
 <!DOCTYPE html>
