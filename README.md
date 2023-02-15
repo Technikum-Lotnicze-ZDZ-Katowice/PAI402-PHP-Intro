@@ -23,13 +23,27 @@ PHP
 
 ```php
 <?php
-	echo 'Hello ';
+	echo 'Hello PHP';
+	print('Hello PHP');
 ```
 PY 
 ```python
 print("Hello, World!")
 ```
 
+C++
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"Hello World";
+
+    return 0;
+}
+```
 
 ### ONLINE EDITORS
 - ALL : https://www.w3schools.com/tryit/ , https://replit.com/
