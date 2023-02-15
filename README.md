@@ -35,11 +35,12 @@ PHP
 	echo 'Hello PHP';
 	print('Hello PHP');
 ```
+---
 PY 
 ```python
 print("Hello, World!")
 ```
-
+---
 C++
 ```cpp
 #include <iostream>
@@ -58,9 +59,14 @@ int main()
 2. Variables
 
 JS
+---
 PHP
+---
 PY
+---
 C++
+
+3. Conditions
 
 ### ONLINE EDITORS
 - ALL : https://www.w3schools.com/tryit/ , https://replit.com/
