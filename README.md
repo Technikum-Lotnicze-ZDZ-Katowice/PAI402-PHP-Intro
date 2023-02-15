@@ -7,6 +7,14 @@ C++ compiled language
 
 2. Syntax
 
+JS
+```js
+document.write('Hello JS');
+
+...
+
+document.querySelector('#el').innerHTML = 'Hello injected';
+```
 PHP
 ```php
 <!DOCTYPE html>
@@ -44,6 +52,14 @@ int main()
     return 0;
 }
 ```
+
+
+2. Variables
+
+JS
+PHP
+PY
+C++
 
 ### ONLINE EDITORS
 - ALL : https://www.w3schools.com/tryit/ , https://replit.com/
