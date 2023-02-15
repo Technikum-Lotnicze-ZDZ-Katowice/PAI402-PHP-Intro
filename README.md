@@ -114,9 +114,33 @@ C++
 
 ### 3. Arays
 
-### 4. Conditions
+JS
+```js
+let arr1 = [];
+const arr2 = new Array(1,2,3,4);
+```
 
+PHP
+```php
+$numbers = [1,2,3,4,5];
+$persons = array("Mary" => "Female", "John" => "Male", "Mirriam" => "Female");
+```
+
+### 4. Conditions
+```js
+if(){
+
+```
+
+```php
+if($a < 2){
+	...
+}
+```
 ### 5. Iterations
+
+### 6. OOP
+
 
 
 ### ONLINE EDITORS
