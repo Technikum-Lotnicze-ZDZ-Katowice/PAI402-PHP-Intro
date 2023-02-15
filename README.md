@@ -2,7 +2,7 @@
 
 1. Overview
 
-JS,PHP,PY script language/
+JS,PHP,PY script language\
 C++ compiled language
 
 2. Syntax
