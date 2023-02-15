@@ -81,6 +81,7 @@ $name = 'Jan';
 echo "Hello $Jan";
 
 echo 'Hello ' .  $Jan;
+
 ...
 
 
@@ -90,9 +91,23 @@ $y = $x; // $y = &$x;
 $x = 3;
 
 echo $y;
+
+...
+
+<?= "Hello world"?>
+
 ```
 ---
 PY
+
+```python
+a = 5
+b = 2
+
+if a > b
+	print("a jest większe od b")
+```
+
 ---
 C++
 
