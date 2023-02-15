@@ -8,7 +8,21 @@ C++ compiled language
 2. Syntax
 PHP
 ```php
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PHP Syntax</title>
+</head>
+<body>
+        <h1><?php echo 'Hello PHP'; ?></h1>
+</body>
+</html>
+```
 
+```php
+<?php
+	echo 'Hello ';
 ```
 PY 
 
