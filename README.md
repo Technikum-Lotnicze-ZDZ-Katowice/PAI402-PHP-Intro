@@ -111,7 +111,13 @@ if a > b
 
 C++
 ---
-### 3. Conditions
+
+### 3. Arays
+
+### 4. Conditions
+
+### 5. Iterations
+
 
 ### ONLINE EDITORS
 - ALL : https://www.w3schools.com/tryit/ , https://replit.com/
