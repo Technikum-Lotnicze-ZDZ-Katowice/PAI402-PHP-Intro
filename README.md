@@ -1,6 +1,6 @@
 # 423-JS-PHP-PYTHON-C++
 
-####1. Overview
+#### 1. Overview
 
 JS,PHP,PY script languages\
 C++ compiled language
@@ -56,7 +56,7 @@ int main()
 ```
 
 
-####2. Variables
+#### 2. Variables
 
 JS
 
@@ -111,7 +111,7 @@ if a > b
 ---
 C++
 
-####3. Conditions
+#### 3. Conditions
 
 ### ONLINE EDITORS
 - ALL : https://www.w3schools.com/tryit/ , https://replit.com/
