@@ -6,6 +6,7 @@ JS,PHP,PY script language
 C++ compiled language
 
 2. Syntax
+
 PHP
 ```php
 <!DOCTYPE html>
