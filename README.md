@@ -26,7 +26,9 @@ PHP
 	echo 'Hello ';
 ```
 PY 
-
+```python
+print("Hello, World!")
+```
 
 
 ### ONLINE EDITORS
