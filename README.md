@@ -153,6 +153,16 @@ $persons = array("Mary" => "Female", "John" => "Male", "Mirriam" => "Female");
 - “!” — negacja logiczna (NOT)
 - “||” — alternatywa logiczna (OR), zwana sumą logiczną.
 
+#### pperatory Inkrementacji, Dekrementacji i Przypisania
+- $i++ — zwiększenie wartości zmiennej po użyciu w instrukcji,
+- ++$i — zwiększenie wartości przed instrukcją,
+- $i--, --$i — analogiczne operacje zmniejszające wartość o 1.
+Mamy również wygodne operatory przypisania:
+
+- $i += 5 zwiększa wartość zmiennej o 5,
+- $i /= 2 dzieli wartość zmiennej przez 2 i przypisuje wynik tej operacji.
+
+
 JS
 ```js
 ```
