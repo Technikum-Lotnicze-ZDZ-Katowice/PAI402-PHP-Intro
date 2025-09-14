@@ -72,7 +72,7 @@ let imie = 'Jan';
 
 document.write('Hello ' + imie);
 ```
----
+
 PHP
 ```php
 $name = 'Jan';
@@ -100,7 +100,6 @@ echo $y;
 ```
 
 PY
-
 ```python
 a = 5
 b = 2
