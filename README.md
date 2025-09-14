@@ -126,6 +126,14 @@ $numbers = [1,2,3,4,5];
 $persons = array("Mary" => "Female", "John" => "Male", "Mirriam" => "Female");
 ```
 
+C++
+```cpp
+string cars[4];
+string cars[4] = {"Volvo", "BMW", "Ford", "Mazda"};
+int myNum[3] = {10, 20, 30};
+
+cout << cars[0];
+```
 
 
 ### 4. Operators
@@ -210,7 +218,14 @@ if (time < 18) {
 }
 ```
 
-### 6. Iterations
+### 6. Loops
+
+C++
+```cpp
+for (int i = 0; i < 5; i++) {
+  cout << i << "\n";
+}
+```
 
 ### 7. OOP
 
