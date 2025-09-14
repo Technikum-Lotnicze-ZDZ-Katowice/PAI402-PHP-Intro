@@ -130,6 +130,29 @@ $numbers = [1,2,3,4,5];
 $persons = array("Mary" => "Female", "John" => "Male", "Mirriam" => "Female");
 ```
 
+### 3. Operators
+#### arytmetyczne
+
+- “+” — suma dwóch liczb lub ciągów (“Hello ” + “World” → “Hello World”)
+- “-” — różnica dwóch wartości
+- “*” — iloczyn wartości
+- “/” — iloraz dzielenia
+- “%” — modulo, czyli reszta z dzielenia (10 % 3 → 1)
+
+#### porównania
+
+- “==” — równość wartości (bez uwzględnienia typu danych)
+- “===” — identyczność (wartości i typu danych)
+- “!=” — różność wartości
+- “!==” — nieidentyczność wartości lub typu
+- “>” oraz “<” — porównują wartości pod względem wielkości
+- “>=”, “<=” — porównanie większy lub równy oraz mniejszy lub równy.
+
+#### logiczne
+- “&&” — koniunkcja logiczna (AND)
+- “!” — negacja logiczna (NOT)
+- “||” — alternatywa logiczna (OR), zwana sumą logiczną.
+
 ### 4. Conditions
 ```js
 if(){
