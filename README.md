@@ -104,9 +104,6 @@ PY
 ```python
 a = 5
 b = 2
-
-if a > b
-	print("a jest większe od b")
 ```
 
 
@@ -129,6 +126,8 @@ PHP
 $numbers = [1,2,3,4,5];
 $persons = array("Mary" => "Female", "John" => "Male", "Mirriam" => "Female");
 ```
+
+
 
 ### 3. Operators
 #### arytmetyczne
@@ -163,11 +162,22 @@ Mamy również wygodne operatory przypisania:
 - $i /= 2 dzieli wartość zmiennej przez 2 i przypisuje wynik tej operacji.
 
 
-JS
+### 4. Conditions
 ```js
+if(...){
+	...
+} else {
+	...
+}
+
+----
+
+a = 10
+b = 5
+
+const c = a > b ? "większe" : "mniejsze"
 ```
 
-PHP
 ```php
 $uzytkownik = "admin";
 $tryb = "pilny";
@@ -181,17 +191,16 @@ else
 }
 ```
 
-### 4. Conditions
-```js
-if(){
-
+```python
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+else:
+  print("a is greater than b")
 ```
 
-```php
-if($a < 2){
-	...
-}
-```
+
 ### 5. Iterations
 
 ### 6. OOP
