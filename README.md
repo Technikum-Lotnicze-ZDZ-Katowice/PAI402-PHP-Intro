@@ -151,3 +151,4 @@ if($a < 2){
 
 ### TUTORIALS
 [Full PHP 8 Tutorial - Learn PHP The Right Way In 2023](https://youtu.be/sVbEyFZKgqk)
+[kursphp.com](https://kursphp.com/nauka-php-online/)
