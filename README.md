@@ -111,6 +111,9 @@ if a > b
 
 
 C++
+```cpp
+const int myNum = 15;
+cout<<myNum;
 ---
 
 ### 3. Arays
