@@ -219,6 +219,13 @@ if (time < 18) {
 ```
 
 ### 6. Loops
+Python
+```python
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
+```
+
 
 C++
 ```cpp
