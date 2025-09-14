@@ -219,6 +219,19 @@ if (time < 18) {
 ```
 
 ### 6. Loops
+PHP
+```JS
+for (let i = 0; i < 5; i++) {
+  text += "The number is " + i + "<br>";
+}
+```
+
+```php
+for ($x = 0; $x <= 10; $x++) {
+  echo "The number is: $x <br>";
+}
+```
+
 Python
 ```python
 fruits = ["apple", "banana", "cherry"]
