@@ -153,6 +153,24 @@ $persons = array("Mary" => "Female", "John" => "Male", "Mirriam" => "Female");
 - “!” — negacja logiczna (NOT)
 - “||” — alternatywa logiczna (OR), zwana sumą logiczną.
 
+JS
+```js
+```
+
+PHP
+```php
+$uzytkownik = "admin";
+$tryb = "pilny";
+if ($uzytkownik == "admin" || $tryb == "pilny") 
+{ 
+  echo "Dostęp możliwy!";
+}
+else
+{ 
+  echo "Brak dostępu!";
+}
+```
+
 ### 4. Conditions
 ```js
 if(){
