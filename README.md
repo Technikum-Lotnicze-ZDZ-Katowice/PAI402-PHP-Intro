@@ -219,13 +219,13 @@ if (time < 18) {
 ```
 
 ### 6. Loops
-PHP
+JS
 ```JS
 for (let i = 0; i < 5; i++) {
   text += "The number is " + i + "<br>";
 }
 ```
-
+PHP
 ```php
 for ($x = 0; $x <= 10; $x++) {
   echo "The number is: $x <br>";
