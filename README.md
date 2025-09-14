@@ -162,6 +162,8 @@ Mamy również wygodne operatory przypisania:
 
 
 ### 5. Conditions
+
+JS
 ```js
 if(...){
 	...
@@ -176,7 +178,7 @@ b = 5
 
 const c = a > b ? "większe" : "mniejsze"
 ```
-
+PHP
 ```php
 $uzytkownik = "admin";
 $tryb = "pilny";
@@ -189,7 +191,7 @@ else
   echo "Brak dostępu!";
 }
 ```
-
+Python
 ```python
 if b > a:
   print("b is greater than a")
