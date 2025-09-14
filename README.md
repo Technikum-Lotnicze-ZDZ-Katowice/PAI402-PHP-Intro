@@ -1,4 +1,4 @@
-# 423-JS-PHP-PYTHON-C++
+# 402-JS-PHP-PYTHON-C++
 ---
 ### 1. Overview
 
@@ -65,7 +65,6 @@ let a = 5;
 const b = 2;
 
 let c = a < b;
-
 
 ...
 
