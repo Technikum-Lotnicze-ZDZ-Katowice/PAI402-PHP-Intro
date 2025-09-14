@@ -110,9 +110,9 @@ C++
 ```cpp
 const int myNum = 15;
 cout<<myNum;
----
+```
 
-### 3. Arays
+### 4. Arays
 
 JS
 ```js
@@ -136,7 +136,7 @@ cout << cars[0];
 ```
 
 
-### 4. Operators
+### 5. Operators
 #### arytmetyczne
 
 - “+” — suma dwóch liczb lub ciągów (“Hello ” + “World” → “Hello World”)
@@ -169,7 +169,7 @@ Mamy również wygodne operatory przypisania:
 - $i /= 2 dzieli wartość zmiennej przez 2 i przypisuje wynik tej operacji.
 
 
-### 5. Conditions
+### 6. Conditions
 
 JS
 ```js
@@ -218,7 +218,7 @@ if (time < 18) {
 }
 ```
 
-### 6. Loops
+### 7. Loops
 JS
 ```JS
 for (let i = 0; i < 5; i++) {
@@ -247,7 +247,7 @@ for (int i = 0; i < 5; i++) {
 }
 ```
 
-### 7. OOP
+### 8. OOP
 
 
 
