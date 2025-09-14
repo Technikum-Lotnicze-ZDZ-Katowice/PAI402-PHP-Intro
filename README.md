@@ -200,7 +200,15 @@ elif a == b:
 else:
   print("a is greater than b")
 ```
-
+C++
+```cpp
+int time = 20;
+if (time < 18) {
+  cout << "Good day.";
+} else {
+  cout << "Good evening.";
+}
+```
 
 ### 6. Iterations
 
