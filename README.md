@@ -5,7 +5,7 @@
 JS,PHP,PY script languages\
 C++ compiled language
 
-2. Syntax
+### 2. Syntax
 
 JS
 ```js
@@ -56,7 +56,7 @@ int main()
 ```
 
 ---
-### 2. Variables
+### 3. Variables
 
 JS
 
@@ -128,7 +128,7 @@ $persons = array("Mary" => "Female", "John" => "Male", "Mirriam" => "Female");
 
 
 
-### 3. Operators
+### 4. Operators
 #### arytmetyczne
 
 - “+” — suma dwóch liczb lub ciągów (“Hello ” + “World” → “Hello World”)
@@ -161,7 +161,7 @@ Mamy również wygodne operatory przypisania:
 - $i /= 2 dzieli wartość zmiennej przez 2 i przypisuje wynik tej operacji.
 
 
-### 4. Conditions
+### 5. Conditions
 ```js
 if(...){
 	...
@@ -200,9 +200,9 @@ else:
 ```
 
 
-### 5. Iterations
+### 6. Iterations
 
-### 6. OOP
+### 7. OOP
 
 
 
