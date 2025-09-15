@@ -140,7 +140,7 @@ $x = true;
 var_dump($x);
 ```
 
-### 4. Arays
+### 5. Arays
 
 JS
 ```js
@@ -164,7 +164,7 @@ cout << cars[0];
 ```
 
 
-### 5. Operators
+### 6. Operators
 #### arytmetyczne
 
 - “+” — suma dwóch liczb lub ciągów (“Hello ” + “World” → “Hello World”)
@@ -197,7 +197,7 @@ Mamy również wygodne operatory przypisania:
 - $i /= 2 dzieli wartość zmiennej przez 2 i przypisuje wynik tej operacji.
 
 
-### 6. Conditions
+### 7. Conditions
 
 JS
 ```js
@@ -250,7 +250,7 @@ if (time < 18) {
 }
 ```
 
-### 7. Loops
+### 8. Loops
 JS
 ```JS
 for (let i = 0; i < 5; i++) {
@@ -293,7 +293,7 @@ for (int i = 0; i < 5; i++) {
 }
 ```
 
-### 8. OOP
+### 9. OOP
 
 PHP
 ```php
@@ -320,6 +320,11 @@ echo $apple->get_name();
 echo "<br>";
 echo $banana->get_name();
 ```
+
+### 10. Include, Require
+
+include 'filename';
+require 'filename';
 
 ---
 ### ONLINE EDITORS
