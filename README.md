@@ -234,6 +234,20 @@ PHP
 for ($x = 0; $x <= 10; $x++) {
   echo "The number is: $x <br>";
 }
+
+$numbers = array();
+// wypełnij dane przy pomocy pętli for
+for($i = 0; $i < 10; $i++)
+{
+    $numbers[] = $i;
+}
+// użycie pętli foreach na tablicy
+foreach($numbers as $number)
+{
+    // w każdym kolejnym przebiegu następny element tablicy 
+    // jest przechowywany w zmiennej $number
+    echo $number;
+}
 ```
 
 Python
