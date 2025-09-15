@@ -292,6 +292,7 @@ echo $banana->get_name();
 #### ZAD40201
 - przygotuj skrypt PHP wypisujący na stronie HTML znaki ASCII w kształcie choinki;
 
+
 #### ZAD40202
 - Przygotuj stronę PHP której wygląd i parametry bedą zdefiniowane w pliku params.php
 ---
