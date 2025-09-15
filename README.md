@@ -345,7 +345,7 @@ require 'filename';
 
 #### ZAD40203
 - Przygotuj stronę PHP której wygląd i parametry bedą zdefiniowane w pliku params.php
-
+- Podstrony są puste i zawierają tylko (identyczny ze stroną startową) header (navbar)
 - ![Generated](Generated.png)
 ---
 
