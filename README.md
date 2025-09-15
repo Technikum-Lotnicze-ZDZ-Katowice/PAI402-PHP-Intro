@@ -198,6 +198,10 @@ else
 { 
   echo "Brak dostępu!";
 }
+
+---
+
+$odpowiedz = ($a>5) ? 'Większa od 5' : 'Mniejsza, bądź równa 5';
 ```
 Python
 ```python
