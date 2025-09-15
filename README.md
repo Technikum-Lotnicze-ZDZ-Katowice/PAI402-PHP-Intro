@@ -345,6 +345,8 @@ require 'filename';
 
 #### ZAD40203
 - Przygotuj stronę PHP której wygląd i parametry bedą zdefiniowane w pliku params.php
+
+- ![Generated](Generated.png)
 ---
 
 ### TUTORIALS
