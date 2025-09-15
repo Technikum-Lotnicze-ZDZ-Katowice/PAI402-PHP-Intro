@@ -1,5 +1,7 @@
 <?php
 
+$title = "My site";
+
 $bgColor = "#f0f0ff";
 $textColor = "#000000";
 
