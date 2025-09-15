@@ -92,7 +92,7 @@ define("NR_TEL","666666666");
 echo "Hello $Jan";
 
 echo 'Hello ' .  $Jan;
-echo 'Your tel is ' . $NR_TEL;
+echo constant("NR_TEL");
 
 ...
 
