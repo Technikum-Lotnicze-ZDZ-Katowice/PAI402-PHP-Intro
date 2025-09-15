@@ -286,7 +286,7 @@ echo $banana->get_name();
 ### ZADANIA
 
 #### ZAD40201
-- Przygotuj stronę PHP której wygląd i parametry bedzie zdefiniowany w pliku params.php
+- Przygotuj stronę PHP której wygląd i parametry bedą zdefiniowane w pliku params.php
 ---
 
 ### TUTORIALS
