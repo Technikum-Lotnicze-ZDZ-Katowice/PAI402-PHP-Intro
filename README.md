@@ -39,6 +39,12 @@ PHP
 <?php
 	echo 'Hello PHP';
 	print('Hello PHP');
+
+	echo <<<EOD
+            Geeks
+            \tFor
+            Geeks
+	EOD;
 ```
 
 PY 
