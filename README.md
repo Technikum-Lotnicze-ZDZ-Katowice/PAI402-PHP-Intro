@@ -261,9 +261,9 @@ for (int i = 0; i < 5; i++) {
 ### ZADANIA
 
 #### ZAD40201
-
-
+Przygotuj stronę PHP której wygląd i parametry bedzie zdefiniowany w pliku params.php
 ---
+
 ### TUTORIALS
 [Full PHP 8 Tutorial - Learn PHP The Right Way In 2023](https://youtu.be/sVbEyFZKgqk)
 [kursphp.com](https://kursphp.com/nauka-php-online/)
