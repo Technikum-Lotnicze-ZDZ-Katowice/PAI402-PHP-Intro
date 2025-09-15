@@ -13,4 +13,5 @@ $menu = [
 
 $logo = "https://logoipsum.com/artwork/403"
 
+$sections = array("First","Second","Third");
 ?>
