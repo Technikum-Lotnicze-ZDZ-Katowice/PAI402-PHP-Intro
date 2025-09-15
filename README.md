@@ -250,19 +250,20 @@ for (int i = 0; i < 5; i++) {
 ### 8. OOP
 
 
-
+---
 ### ONLINE EDITORS
 - ALL : https://www.w3schools.com/tryit/ , https://replit.com/
 - JS : https://codepen.io/
 - PY : https://www.online-python.com/
 - C++ : https://www.onlinegdb.com/online_c++_compiler
 
+---
 ### ZADANIA
 
 #### ZAD40201
 
 
-
+---
 ### TUTORIALS
 [Full PHP 8 Tutorial - Learn PHP The Right Way In 2023](https://youtu.be/sVbEyFZKgqk)
 [kursphp.com](https://kursphp.com/nauka-php-online/)
