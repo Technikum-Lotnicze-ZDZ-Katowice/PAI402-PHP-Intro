@@ -123,6 +123,23 @@ const int myNum = 15;
 cout<<myNum;
 ```
 
+### 4.Data types
+
+String
+Integer
+Float (floating point numbers - also called double)
+Boolean
+Array
+Object
+NULL
+Resource
+
+PHP
+```php
+$x = true;
+var_dump($x);
+```
+
 ### 4. Arays
 
 JS
