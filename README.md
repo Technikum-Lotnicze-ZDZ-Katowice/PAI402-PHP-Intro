@@ -332,10 +332,13 @@ echo $banana->get_name();
 ### ZADANIA
 
 #### ZAD40201
+- zdefiniuj tablicę oraz umieść w niej 20 kolejnych liczb pierwszych
+
+#### ZAD40202
 - przygotuj skrypt PHP wypisujący na stronie HTML znaki ASCII w kształcie choinki;
 ![Choinka](choinka.png)
 
-#### ZAD40202
+#### ZAD40203
 - Przygotuj stronę PHP której wygląd i parametry bedą zdefiniowane w pliku params.php
 ---
 
